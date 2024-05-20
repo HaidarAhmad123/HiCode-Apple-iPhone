@@ -8,6 +8,7 @@ export default defineConfig({
     org: "jsm-x9",
     project: "javascript-react"
   })],
+  base:"/HiCode-Apple-iPhone/"
   build: {
     sourcemap: true
   }
